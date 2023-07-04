@@ -13,6 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^11.0.0",
-    "inquirer": "^8.2.1"
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.2.1",
+    "ora": "^5.4.1"
   }
 }
